@@ -1,0 +1,4 @@
+{
+	"terminal": "C:\\Windows\\SysWOW64\\cmd.exe",
+	"parameters": ["/c", "C:\\\"Program Files (x86)\"\\Git\\bin\\sh.exe --login -i"]
+}

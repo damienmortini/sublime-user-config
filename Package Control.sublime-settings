@@ -1,0 +1,12 @@
+{
+	"auto_upgrade_last_run": 1343248308,
+	"installed_packages":
+	[
+		"HaXe",
+		"LESS",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"Terminal"
+	]
+}
