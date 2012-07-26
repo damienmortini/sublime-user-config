@@ -8,4 +8,4 @@ else
 	param=`pwd`/"${1:-index.html}" #set param to "current_path/index.html" if $1 is null
 fi
 
-"$CHROME_PATH" $param -allow-file-access-from-files & livereload
+"$CHROME_PATH" $param -allow-file-access-from-files & livereload & compass watch

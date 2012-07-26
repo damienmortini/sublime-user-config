@@ -1,12 +1,15 @@
 {
-	"auto_upgrade_last_run": 1343248308,
+	"auto_upgrade_last_run": 1343304128,
 	"installed_packages":
 	[
+		"All Autocomplete",
 		"HaXe",
 		"LESS",
 		"Package Control",
+		"Sass",
 		"SideBarEnhancements",
 		"SublimeLinter",
-		"Terminal"
+		"Terminal",
+		"X to Y"
 	]
 }
