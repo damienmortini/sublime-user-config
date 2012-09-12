@@ -1,16 +1,26 @@
 {
-	"auto_upgrade_last_run": 1343406733,
+	"auto_upgrade_last_run": 1347451516,
 	"installed_packages":
 	[
 		"All Autocomplete",
+		"ColorPicker",
+		"emmet-sublime",
+		"GL-Shader-Validator",
 		"HaXe",
+		"JsFormat",
 		"LESS",
 		"Markdown Preview",
+		"OpenGL Shading Language (GLSL)",
 		"Package Control",
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"Terminal",
 		"X to Y"
+	],
+	"repositories":
+	[
+		"https://github.com/sergeche/emmet-sublime",
+		"https://github.com/WebGLTools/GL-Shader-Validator"
 	]
 }

@@ -1,8 +1,9 @@
 {
-	"font_size": 11,
+	"font_size": 12,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"word_wrap": "true"
+	"word_wrap": "true",
+	"detect_slow_plugins": false
 }
