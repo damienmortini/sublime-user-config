@@ -1,9 +1,5 @@
 {
+	"detect_slow_plugins": false,
 	"font_size": 12,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	"word_wrap": "true",
-	"detect_slow_plugins": false
+	"word_wrap": "true"
 }
