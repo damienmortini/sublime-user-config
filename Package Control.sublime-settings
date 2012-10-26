@@ -1,8 +1,9 @@
 {
-	"auto_upgrade_last_run": 1348065849,
+	"auto_upgrade_last_run": 1351256471,
 	"installed_packages":
 	[
 		"All Autocomplete",
+		"Autocomplete Javascript with Method Signature",
 		"ColorPicker",
 		"GL Shader Validator",
 		"HaXe",
@@ -13,6 +14,7 @@
 		"Package Control",
 		"Sass",
 		"SideBarEnhancements",
+		"SublimeCodeIntel",
 		"SublimeLinter",
 		"Terminal",
 		"X to Y"

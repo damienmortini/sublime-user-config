@@ -4,5 +4,6 @@
 	{ "keys": ["ctrl+shift+d"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
 	{ "keys": ["ctrl+q"], "command": "toggle_comment", "args": { "block": false } },
 	{ "keys": ["ctrl+shift+q"], "command": "toggle_comment", "args": { "block": true } },
-	{ "keys": ["ctrl+w"], "command": "toggle_side_bar" }
+	{ "keys": ["ctrl+w"], "command": "toggle_side_bar" },
+    { "keys": ["f8"], "command": "build" }
 ]

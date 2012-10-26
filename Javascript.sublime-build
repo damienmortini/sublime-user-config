@@ -1,9 +1,10 @@
 {
-	"selector": "source.js, source.css, source.less, source.scss, source.html",
+	"selector": "source.html, source.js, source.css, source.less, source.scss",
 	"working_dir": "$project_path",
 	"shell": true,
 
-	"cmd": ["start", "cmd", "/c", "$packages\\User\\jstart.sh"],
+  // "cmd": ["yeoman server"],
+	"cmd": ["start", "cmd", "/k", "yeoman server"],
 
 	"variants": [
         { 
