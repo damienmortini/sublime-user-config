@@ -4,7 +4,10 @@
 	[
 		"All Autocomplete",
 		"Autocomplete Javascript with Method Signature",
+		"Color Highlighter",
 		"ColorPicker",
+		"Emmet",
+		"FileSystem Autocompletion",
 		"GL Shader Validator",
 		"HaXe",
 		"JsFormat",
