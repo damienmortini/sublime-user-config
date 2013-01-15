@@ -1,9 +1,12 @@
 {
-	"auto_upgrade_last_run": 1351256471,
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"All Autocomplete",
 		"Autocomplete Javascript with Method Signature",
+		"CoffeeLint",
+		"CoffeeScript",
+		"CoffeeScript Function Finder",
 		"Color Highlighter",
 		"ColorPicker",
 		"Emmet",
@@ -17,6 +20,7 @@
 		"Package Control",
 		"Sass",
 		"SideBarEnhancements",
+		"SJSON",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"Terminal",
