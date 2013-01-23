@@ -1,5 +1,7 @@
-Installation (Windows)
-------------------------
+Build system
+============
+Yeoman installation (Windows)
+-----------------------------
 
 * **Install [Chocolatey](http://chocolatey.org/)**
 

@@ -1,9 +1,8 @@
 {
-	"selector": "source.html, source.js, source.css, source.less, source.scss",
+	"selector": "source.js, source.css, source.less, source.scss, source.coffee",
 	"working_dir": "$project_path",
 	"shell": true,
 
-  // "cmd": ["yeoman server"],
 	"cmd": ["start", "cmd", "/k", "yeoman server"],
 
 	"variants": [
