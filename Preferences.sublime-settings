@@ -1,6 +1,4 @@
 {
-	"detect_slow_plugins": true,
-	"font_size": 10.0,
 	"ignored_packages":
 	[
 		"Vintage"

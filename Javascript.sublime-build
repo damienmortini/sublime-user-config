@@ -1,5 +1,5 @@
 {
-	"selector": "source.js, source.css, source.less, source.scss, source.coffee",
+	"selector": "source.js, source.css, source.less, source.scss, source.sass, source.coffee",
 	"working_dir": "$project_path",
 	"shell": true,
 
