@@ -1,10 +1,12 @@
 {
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"Alignment",
 		"All Autocomplete",
 		"Autocomplete Javascript with Method Signature",
 		"Clipboard History",
+		"CoffeeComplete Plus (Autocompletion)",
 		"CoffeeScript",
 		"CoffeeScript Function Finder",
 		"Color Highlighter",
@@ -17,18 +19,24 @@
 		"Goto Documentation",
 		"Haxe",
 		"jQuery",
+		"jQuery Snippets pack",
 		"JS2Coffee",
 		"JsFormat",
 		"LESS",
+		"LiveReload",
 		"Markdown Preview",
 		"OpenGL Shading Language (GLSL)",
 		"Package Control",
 		"Sass",
+		"SCSS",
+		"SCSS Snippets",
 		"SideBarEnhancements",
 		"sublime-split-navigation",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeXiki",
 		"Terminal",
+		"TypeScript",
 		"X to Y"
 	]
 }

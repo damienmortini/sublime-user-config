@@ -1,7 +1,9 @@
 {
+	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"LiveReload"
 	],
 	"word_wrap": "true"
 }
