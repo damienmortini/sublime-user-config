@@ -1,9 +1,13 @@
 {
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"Alignment",
 		"All Autocomplete",
+		"AngularJS",
+		"AngularJS Attributes Completion",
 		"Autocomplete Javascript with Method Signature",
+		"Bower",
 		"Clipboard History",
 		"CoffeeScript",
 		"CoffeeScript Function Finder",
@@ -30,6 +34,7 @@
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"Terminal",
+		"TypeScript",
 		"X to Y"
 	]
 }
