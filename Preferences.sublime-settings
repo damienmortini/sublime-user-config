@@ -3,6 +3,7 @@
 	"ignored_packages":
 	[
 		"Haxe",
+		"Vintage",
 		"LiveReload"
 	],
 	"word_wrap": "true"
