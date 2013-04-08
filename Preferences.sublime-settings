@@ -6,5 +6,6 @@
 		"Vintage",
 		"LiveReload"
 	],
-	"word_wrap": "true"
+	"word_wrap": true,
+	"detect_slow_plugins": false
 }
