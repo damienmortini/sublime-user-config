@@ -1,0 +1,9 @@
+{
+	"cmd": ["killall node& grunt server"],
+	"working_dir": "$project_path",
+	"shell":true,
+	"windows":
+    {
+        "cmd": ["taskkill node&grunt server"]
+    }
+}
