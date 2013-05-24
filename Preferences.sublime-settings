@@ -1,11 +1,9 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
+	"detect_slow_plugins": false,
 	"ignored_packages":
 	[
-		"Haxe",
-		"Vintage",
-		"LiveReload"
+		"Vintage"
 	],
-	"word_wrap": true,
-	"detect_slow_plugins": false
+	"word_wrap": true
 }
