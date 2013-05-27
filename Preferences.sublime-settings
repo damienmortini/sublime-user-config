@@ -3,9 +3,6 @@
 	"detect_slow_plugins": false,
 	"ignored_packages":
 	[
-		"Haxe",
-		"Vintage",
-		"LiveReload"
-	],
+		"Vintage"	],
 	"word_wrap": true
 }
