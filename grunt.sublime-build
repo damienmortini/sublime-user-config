@@ -4,6 +4,6 @@
 	"shell":true,
 	"windows":
     {
-        "cmd": ["taskkill node&grunt server"]
+        "cmd": ["taskkill /IM node.exe /F&grunt server"]
     }
 }
