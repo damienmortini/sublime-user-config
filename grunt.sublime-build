@@ -14,7 +14,7 @@
 			"shell":true,
 			"windows":
 			{
-				"cmd": ["taskkill node&grunt build"]
+				"cmd": ["taskkill /IM node.exe /F&grunt build"]
 			}
 		},
 		{
@@ -23,7 +23,7 @@
 			"shell":true,
 			"windows":
 			{
-				"cmd": ["taskkill node"]
+				"cmd": ["taskkill /IM node.exe /F"]
 			}
 		}
 	]
