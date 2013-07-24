@@ -8,7 +8,17 @@
 	},
 	"variants": [
 		{
-			"name": "Grunt Build",
+			"name": "grunt server:dist",
+			"cmd": ["killall node; grunt server:dist"],
+			"working_dir": "$project_path",
+			"shell":true,
+			"windows":
+			{
+				"cmd": ["taskkill /IM node.exe /F&grunt server:dist"]
+			}
+		},
+		{
+			"name": "grunt build",
 			"cmd": ["killall node; grunt build"],
 			"working_dir": "$project_path",
 			"shell":true,
@@ -18,7 +28,7 @@
 			}
 		},
 		{
-			"name": "Grunt Kill Server",
+			"name": "grunt kill server",
 			"cmd": ["killall node"],
 			"shell":true,
 			"windows":
