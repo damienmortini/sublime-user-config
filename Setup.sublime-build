@@ -1,3 +1,0 @@
-{
-	"cmd": ["sh", "$project_path/setup.sh"]
-}

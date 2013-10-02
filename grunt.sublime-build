@@ -1,39 +1,39 @@
 {
-	"cmd": ["killall node; grunt server"],
+	"cmd": "killall node; grunt server",
 	"working_dir": "$project_path",
 	"shell":true,
 	"windows":
     {
-        "cmd": ["taskkill /IM node.exe /F&grunt server"]
+        "cmd": "taskkill /IM node.exe /F&grunt server"
 	},
 	"variants": [
 		{
 			"name": "grunt server:dist",
-			"cmd": ["killall node; grunt server:dist"],
+			"cmd": "killall node; grunt server:dist",
 			"working_dir": "$project_path",
 			"shell":true,
 			"windows":
 			{
-				"cmd": ["taskkill /IM node.exe /F&grunt server:dist"]
+				"cmd": "taskkill /IM node.exe /F&grunt server:dist"
 			}
 		},
 		{
 			"name": "grunt build",
-			"cmd": ["killall node; grunt build"],
+			"cmd": "killall node; grunt build",
 			"working_dir": "$project_path",
 			"shell":true,
 			"windows":
 			{
-				"cmd": ["taskkill /IM node.exe /F&grunt build"]
+				"cmd": "taskkill /IM node.exe /F&grunt build"
 			}
 		},
 		{
 			"name": "grunt kill server",
-			"cmd": ["killall node"],
+			"cmd": "killall node",
 			"shell":true,
 			"windows":
 			{
-				"cmd": ["taskkill /IM node.exe /F"]
+				"cmd": "taskkill /IM node.exe /F"
 			}
 		}
 	]

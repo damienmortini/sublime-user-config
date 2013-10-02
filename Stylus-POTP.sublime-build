@@ -1,0 +1,5 @@
+{
+	"shell_cmd": "stylus -o website/css project/develop/stylus/main.styl",
+	"working_dir": "$project_path",
+	"shell":true,
+}
