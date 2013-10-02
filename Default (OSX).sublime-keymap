@@ -1,5 +1,6 @@
 [
 	{ "keys": ["super+q"], "command": "toggle_comment", "args": { "block": false } },
 	{ "keys": ["super+shift+q"], "command": "toggle_comment", "args": { "block": true } },
-	{ "keys": ["super+s"], "command": "save_all" }
+	{ "keys": ["super+s"], "command": "save_all" },
+	{ "keys": ["super+v"], "command": "paste_and_indent" }
 ]
