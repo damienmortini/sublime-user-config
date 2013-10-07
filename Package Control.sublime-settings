@@ -20,7 +20,8 @@
 		"sublime-text-2-clipboard-history",
 		"SublimeCodeIntel",
 		"SublimeGit",
-		"Terminal"
+		"Terminal",
+		"xtoy"
 	],
 	"repositories":
 	[
