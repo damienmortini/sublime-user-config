@@ -11,6 +11,7 @@
 		"ColorPicker",
 		"Emmet",
 		"FindKeyConflicts",
+		"GitGutter",
 		"Markdown Preview",
 		"Sass",
 		"SideBarEnhancements",
@@ -19,14 +20,12 @@
 		"Sublime-Text--cdnjs",
 		"sublime-text-2-clipboard-history",
 		"SublimeCodeIntel",
-		"SublimeGit",
 		"Terminal"
 	],
 	"repositories":
 	[
 		"https://github.com/superguigui/xtoy",
 		"https://github.com/dafrancis/Sublime-Text--cdnjs",
-		"https://github.com/kemayo/sublime-text-2-clipboard-history",
-		"https://github.com/anderson916/sublime-js-to-coffee"
+		"https://github.com/kemayo/sublime-text-2-clipboard-history"
 	]
 }

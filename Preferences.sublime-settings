@@ -4,16 +4,16 @@
 	"font_size": 8,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
-	"tab_size": 4,
 	"ignored_packages":
 	[
-		"JavaScript",
-		"Vintage"
+		"Vintage",
+		"JavaScript"
 	],
 	"indent_guide_options":
 	[
 		"draw_normal",
 		"draw_active"
 	],
+	"tab_size": 4,
 	"word_wrap": true
 }
