@@ -20,7 +20,8 @@
 		"Sublime-Text--cdnjs",
 		"sublime-text-2-clipboard-history",
 		"SublimeCodeIntel",
-		"Terminal"
+		"Terminal",
+		"xtoy"
 	],
 	"repositories":
 	[
