@@ -12,8 +12,10 @@
 		"Emmet",
 		"FindKeyConflicts",
 		"GitGutter",
+		"Grunt",
 		"Markdown Preview",
 		"Sass",
+		"SCSS",
 		"SideBarEnhancements",
 		"Stylus",
 		"sublime-js-to-coffee",
@@ -21,6 +23,7 @@
 		"sublime-text-2-clipboard-history",
 		"SublimeCodeIntel",
 		"Terminal",
+		"TernJS",
 		"xtoy"
 	],
 	"repositories":
