@@ -1,7 +1,7 @@
 {
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
-	"font_size": 10,
+	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
+	"font_size": 12,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -14,6 +14,15 @@
 		"draw_normal",
 		"draw_active"
 	],
+	"index_exclude_patterns":
+	[
+		"*.log",
+		".tmp",
+		".sass-cache",
+		"node_modules",
+		"test"
+	],
 	"tab_size": 4,
+	"theme": "Spacegray Eighties.sublime-theme",
 	"word_wrap": true
 }

@@ -9,10 +9,10 @@
 		"Better JavaScript",
 		"Bower",
 		"ColorPicker",
+		"EasyDiff",
 		"Emmet",
 		"FindKeyConflicts",
 		"GitGutter",
-		"Grunt",
 		"Markdown Preview",
 		"Sass",
 		"SCSS",
@@ -23,7 +23,7 @@
 		"sublime-text-2-clipboard-history",
 		"SublimeCodeIntel",
 		"Terminal",
-		"TernJS",
+		"Theme - Spacegray",
 		"xtoy"
 	],
 	"repositories":
