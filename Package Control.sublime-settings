@@ -22,6 +22,11 @@
 		"Sublime-Text--cdnjs",
 		"sublime-text-2-clipboard-history",
 		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-coffee",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
 		"Terminal",
 		"Theme - Spacegray",
 		"xtoy"
