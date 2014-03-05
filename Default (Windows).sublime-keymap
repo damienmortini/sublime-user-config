@@ -3,5 +3,6 @@
 	{ "keys": ["ctrl+q"], "command": "toggle_comment", "args": { "block": false } },
 	{ "keys": ["ctrl+shift+q"], "command": "toggle_comment", "args": { "block": true } },
 	{ "keys": ["ctrl+v"], "command": "paste_and_indent" },
-	{ "keys": ["ctrl+shift+x"], "command": "exec", "args": {"kill": true} }
+	{ "keys": ["ctrl+shift+x"], "command": "exec", "args": {"kill": true} },
+	{ "keys": ["ctrl+shift+c"], "command": "consolewrap"}
 ]
