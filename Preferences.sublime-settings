@@ -1,7 +1,7 @@
 {
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
-	"font_size": 12,
+	"font_size": 9,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
