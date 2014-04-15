@@ -1,5 +1,6 @@
 {
-	"cmd": "killall node; killall grunt; grunt serve",
+	"cmd": "killall grunt; killall grunt; grunt serve",
+	"working_dir": "$project_path",
 	"shell":true,
 	"windows":
     {
