@@ -22,7 +22,12 @@
 		"node_modules",
 		"test"
 	],
-	"tab_size": 4,
+	"match_brackets": true,
+	"match_brackets_braces": true,
+	"match_brackets_content": true,
+	"match_brackets_square": true,
+	"tab_size": 2,
 	"theme": "Spacegray Eighties.sublime-theme",
+	"translate_tabs_to_spaces": true,
 	"word_wrap": true
 }
